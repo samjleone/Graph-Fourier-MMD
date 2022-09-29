@@ -16,10 +16,6 @@ A module for implementing Graph Fourier MMD can be found in the Graph Fourier MM
 Installation
 ------------
 
-MultiscaleEMD is available in `pypi`. Install by running the following::
-
-    pip install MultiscaleEMD
-
 Requirements can be found in `requirements.txt`
 
 Examples
