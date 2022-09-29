@@ -1,0 +1,7 @@
+numpy>=1.16.0
+scipy
+matplotlib>=3.0
+pot
+pygsp
+graphtools
+scikit-learn>=1.0.0
